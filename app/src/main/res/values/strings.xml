@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="action_settings">Settings</string>
+    <string name="first_fragment_label">Home</string>
+    <string name="second_fragment_label">Weather Detail</string>
+    <string name="detail_frag_title_pattern">Weather in %s</string>
+    <string name="error_loading">Network error, couldn\'t load data from server !</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="lablel_current_location">Current location</string>
+    <string name="feel_like_lbl">Feel like</string>
+    <string name="min_max_temp_lbl">Min. / Max.</string>
+    <string name="wind_lbl">Wind</string>
+    <string name="sunrise_lbl">Sunrise</string>
+    <string name="humidity_lbl">Humidity</string>
+    <string name="visibility_lbl">Visibility</string>
+    <string name="pressure_lbl">Pressure</string>
+    <string name="descript_pressure">Pressure</string>
+    <string name="descript_visibility">Visibility</string>
+    <string name="descript_wind">Wind</string>
+    <string name="descript_humidity">Humidity</string>
+    <string name="descript_temp_min_max">Minimum and maximum temperature</string>
+    <string name="descript_sunrise">Sunrise</string>
+    <string name="descript_sunset">Sunset</string>
+    <string name="descript_condition">Condition</string>
+    <string name="sunset_lbl">Sunset</string>
+    <string name="clouds_lbl">Clouds</string>
+    <string name="dialog_location_permission">Location permission</string>
+    <string name="msg_permission_required">In order to get weather in your current place, you have to grant the app the location permission</string>
+
+</resources>

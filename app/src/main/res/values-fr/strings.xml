@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Météo App</string>
+    <string name="action_settings">Réglages</string>
+    <string name="first_fragment_label">Accueil</string>
+    <string name="second_fragment_label">Détail sur la météo</string>
+    <string name="detail_frag_title_pattern">Météo à %s</string>
+    <string name="error_loading">Erreur réseau, échec du chargement des données à partir du serveur</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="lablel_current_location">Position actuelle</string>
+    <string name="feel_like_lbl">Ressentie</string>
+    <string name="min_max_temp_lbl">Min. / Max.</string>
+    <string name="wind_lbl">Vent</string>
+    <string name="sunrise_lbl">Lever du soleil</string>
+    <string name="humidity_lbl">Humidité</string>
+    <string name="visibility_lbl">Visibilité</string>
+    <string name="pressure_lbl">Pression</string>
+    <string name="descript_pressure">Pression</string>
+    <string name="descript_visibility">Visibilité</string>
+    <string name="descript_wind">Vent</string>
+    <string name="descript_humidity">Humidité</string>
+    <string name="descript_temp_min_max">Température minimale et maximale</string>
+    <string name="descript_sunrise">Lever de soleil</string>
+    <string name="descript_sunset">Coucher de soleil</string>
+    <string name="descript_condition">Condition</string>
+    <string name="sunset_lbl">Coucher de soleil</string>
+    <string name="clouds_lbl">Nuages</string>
+    <string name="dialog_location_permission">Autorisation de position</string>
+    <string name="msg_permission_required">Afin d\'obtenir la météo de votre lieu actuel, vous devez accorder à l\'application l\'autorisation de localisation</string>
+
+</resources>
