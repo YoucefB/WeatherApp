@@ -7,7 +7,7 @@ import java.util.*
 import kotlin.math.roundToInt
 
 object Utils {
-    const val API_KEY = "374faae1865a6eef77d25d173c4010d8"
+    const val API_KEY = "API_KEY"
 
     fun getListOfCities(): List<City> {
 
